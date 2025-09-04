@@ -1,4 +1,4 @@
-# Smart Information Retrieval and Query Assistance System using TF-IDF, LSA, ESA, and Contextual Autocompletion
+# Smart Information Retrieval & Query Assistance System
 
 ## Abstract:
 This project presents a modular NLP pipeline combining classical and semantic information retrieval techniques with advanced query refinement through spelling correction and autocomplete. It integrates TF-IDF, Latent Semantic Analysis (LSA), and Explicit Semantic Analysis (ESA) for document ranking, and provides real-time user assistance through trie-based phrase suggestions and bigram-based next-word predictions. Evaluation is performed on the Cranfield dataset using standard metrics such as Precision@k, Recall@k, F-score, nDCG, and MAP.
